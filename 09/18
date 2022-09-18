@@ -1,0 +1,23 @@
+# a,b = input().split()
+# a = int(a)
+# b = int(b)
+# print("%d + %d = %d" %(a,b,a+b))
+# print("{} - {} = {}".format(a,b,a-b))
+# print(f"{a} * {b} = {a * b}")
+# print("%d / %d = %f" %(a,b,a/b))
+# print("%d // %d = %d" %(a,b,a//b))
+# print("%d %% %d = %d" %(a,b,a%b))
+# # 7 + 3 = 10
+# # 7 - 3 = 4
+# # 7 * 3 = 21
+# # 7 / 3 = 2.33333
+# # 7 // 3 = 2
+# # 7 % 3 = 1
+# print("         ,r'\"7")
+# print("r`-_   ,'  ,/")
+# print(" \. \". L_r'")
+# print("   `~\/")
+# print("      |")
+# print("      |")
+# s = input()
+# print(s + "??!")
